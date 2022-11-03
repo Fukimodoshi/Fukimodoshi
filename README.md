@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fuki Modoshi
-- 👀 I’m interested in learn more about the application of Python to Economist and related issues
-- 🌱 I’m currently learning data science with Python ( I know is suitable R, but I prefere it)
-- :) I Accept recommendations about how to develop data science career to economist
+- 👋 Hi, I’m @Fuki Modoshi (I'm not japanese or similar, just like how it sounds).
+- 👀 I’m interested in learn more about the application of Python in Economics and related issues.
+- 🌱 I’m currently learning data science with Python ( I know is suitable R, but I prefere it).
+- :) I Accept recommendations about how to develop data science career for Economist.
